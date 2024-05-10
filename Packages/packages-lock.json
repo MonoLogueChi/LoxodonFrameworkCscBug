@@ -74,13 +74,12 @@
       "url": "https://package.openupm.com"
     },
     "com.vovgou.loxodon-framework-textformatting": {
-      "version": "2.6.4",
-      "depth": 1,
-      "source": "registry",
+      "version": "file:../PackagesLocal/com.vovgou.loxodon-framework-textformatting-2.6.4.tgz",
+      "depth": 0,
+      "source": "local-tarball",
       "dependencies": {
         "com.vovgou.loxodon-framework": "2.6.4"
-      },
-      "url": "https://package.openupm.com"
+      }
     },
     "com.vovgou.loxodon-framework-textmeshpro": {
       "version": "2.6.4",
